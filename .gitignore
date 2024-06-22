@@ -2,7 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-
+/TMS_Task_3.iml
+/.idea
 
 
 ### Eclipse ###
